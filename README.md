@@ -69,14 +69,6 @@ the crop Recommender system will suggest which type of crop/fruit to grow and wi
 
 
 
-</p>
-  
-<p align = 'center'><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-
-### © 2022 Abhishek Sharma
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)  [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-
-## Thank You! Show some :heart: if you like it!
 
 
 
