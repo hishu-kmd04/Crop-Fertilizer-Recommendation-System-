@@ -68,18 +68,7 @@ Crop Recommendation system (agricrop)==> For this go to the Predict section and 
 the crop Recommender system will suggest which type of crop/fruit to grow and will also suggest the fertilizer which must be used in order to increase production.
 
 
-<h2> Meet the Developers👩‍💻👨‍💻</h3>
-  <table align = 'center'>
-  <tr>
-<td align="center"><a href="https://github.com/abhisheks008"><img src="https://avatars.githubusercontent.com/u/68724349?v=4" width="80px;" alt=""/><br /><sub><b>Abhishek Sharma</b></sub></a></td>
-<td align="center"><a href="https://github.com/Ishita-2001"><img src="https://avatars.githubusercontent.com/u/85105978?v=4" width="80px;" alt=""/><br /><sub><b> Ishita Pahari</b></sub></a></td>
-<td align="center"><a href="https://github.com/UdayanMisra2000"><img src="https://avatars.githubusercontent.com/u/83898487?v=4" width="80px;" alt=""/><br /><sub><b>Udayan Misra</b></sub></a></td>
-<td align="center"><a href="https://github.com/Digbijoy08"><img src="https://avatars.githubusercontent.com/u/83782347?v=4" width="80px;" alt=""/><br /><sub><b>Digbijoy Dasgupta</b></sub></a></td>
-<td align="center"><a href="https://github.com/Shreya0011"><img src="https://avatars.githubusercontent.com/u/87656303?v=4" width="80px;" alt=""/><br /><sub><b>Shreya Bose</b></sub></a></td>
-<td align="center"><a href="https://github.com/Raktim1246"><img src="https://avatars.githubusercontent.com/u/75154706?v=4" width="80px;" alt=""/><br /><sub><b>Raktim Karmakar</b></sub></a></td>   
 
-  </tr>
-</table>
 </p>
   
 <p align = 'center'><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
